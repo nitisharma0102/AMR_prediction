@@ -1,0 +1,6 @@
+Antibiotic,AI Prediction,Probability,Decision Cutoff,CARD Ground Truth,CARD ARO Determinant,Resistance Mechanism,Catalytic Site,Verification Status
+Ampicillin,Resistant,71.4%,0.37,Resistant,ARO:3000026 (TEM-1 beta-lactamase),Enzymatic Inactivation (Beta-lactam ring hydrolysis),Ser70 (STFK active site),VERIFIED CONCORDANT [MATCH]
+Cefotaxime,Resistant,71.4%,0.41,Resistant,ARO:3000518 (CTX-M-15 extended-spectrum beta-lactamase),Enzymatic Inactivation (Oxyimino-cephalosporin hydrolysis),Ser237 & Ser70 (ESBL extended binding cleft),VERIFIED CONCORDANT [MATCH]
+Ceftazidime,Resistant,70.3%,0.47,Resistant,ARO:3000518 (CTX-M-15 extended-spectrum beta-lactamase),Enzymatic Inactivation (Oxyimino-cephalosporin hydrolysis),Ser237 & Ser70 (ESBL extended binding cleft),VERIFIED CONCORDANT [MATCH]
+Ciprofloxacin,Resistant,72.7%,0.53,Resistant,ARO:3003303 (gyrA Quinolone Resistance-Determining Region (QRDR)),Target Alteration (Reduced fluoroquinolone-gyrase binding affinity),Ser83Leu / Asp87Asn missense substitution,VERIFIED CONCORDANT [MATCH]
+Gentamicin,Resistant,70.6%,0.62,Resistant,ARO:3002597 (aac(3)-IIa aminoglycoside N-acetyltransferase),Enzymatic Inactivation (3-N-acetylation abolishing ribosomal binding),Acetyl-CoA binding domain,VERIFIED CONCORDANT [MATCH]

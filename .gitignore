@@ -1,0 +1,46 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.tmp
+*.log
+
+# Virtual environments
+.venv/
+venv/
+env/
+.env
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Testing and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Exclude the 1.25 GB raw whole-genome FASTA corpus to respect GitHub 100MB limit
+# (Users can download the full corpus using python scripts/stage2_download_real_genomes.py)
+# Track only the 15 curated benchmark clinical FASTA genomes for immediate testing & Streamlit demo
+data/fastas/*.fna
+!data/fastas/562.100000.fna
+!data/fastas/562.100001.fna
+!data/fastas/562.100002.fna
+!data/fastas/562.100003.fna
+!data/fastas/562.100004.fna
+!data/fastas/562.100014.fna
+!data/fastas/562.100028.fna
+!data/fastas/562.100044.fna
+!data/fastas/562.100057.fna
+!data/fastas/562.100059.fna
+!data/fastas/562.100097.fna
+!data/fastas/562.100111.fna
+!data/fastas/562.100117.fna
+!data/fastas/562.100121.fna
+!data/fastas/562.100152.fna
+
+# Exclude local zip bundles
+*.zip

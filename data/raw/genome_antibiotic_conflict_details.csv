@@ -1,0 +1,53 @@
+antibiotic,measurement_value,resistant_phenotype,evidence,genome_id,testing_standard,laboratory_typing_method,testing_standard_year,id,measurement,phenotype_clean,binary_label
+ciprofloxacin,0.5,Resistant,Laboratory Method,562.22900,,MIC,,2e4a283e-6694-43ca-a48c-d26bb3f0e800,0.5,resistant,1.0
+ciprofloxacin,,Susceptible,Laboratory Method,562.22900,,Agar dilution,,d3516aac-d30f-40bc-86d3-231fd962b2a8,,susceptible,0.0
+ciprofloxacin,0.5,Resistant,Laboratory Method,562.22913,,MIC,,0d3ade89-95fb-4a8f-a7b5-1e50af5700f2,0.5,resistant,1.0
+ciprofloxacin,,Susceptible,Laboratory Method,562.22913,,Agar dilution,,79df4ec6-23d4-48ae-8379-20b1e9cc1a91,,susceptible,0.0
+ciprofloxacin,,Susceptible,Laboratory Method,562.23080,,Agar dilution,,a621560b-0cc3-4c01-b38f-0b0ea23ce5b9,,susceptible,0.0
+ciprofloxacin,0.5,Resistant,Laboratory Method,562.23080,,MIC,,e1e744b9-f36e-4f80-87ad-04861a0d6a98,0.5,resistant,1.0
+ciprofloxacin,0.5,Resistant,Laboratory Method,562.23186,,MIC,,05ca2fbc-b96b-435f-a8e0-8ff2931f9b7b,0.5,resistant,1.0
+ciprofloxacin,,Susceptible,Laboratory Method,562.23186,,Agar dilution,,4eda3a09-a29a-477b-a5a7-54708025258c,,susceptible,0.0
+ciprofloxacin,0.5,Resistant,Laboratory Method,562.23329,,MIC,,adbe6ba6-e4e9-4f5f-ad71-4b3a63f39f28,0.5,resistant,1.0
+ciprofloxacin,,Susceptible,Laboratory Method,562.23329,,Agar dilution,,e1c3b6fc-b2d5-45fc-82cf-c3563516011a,,susceptible,0.0
+ciprofloxacin,,Susceptible,Laboratory Method,562.23345,,Agar dilution,,03eb880b-921b-4506-b2ac-edefaeca09ae,,susceptible,0.0
+ciprofloxacin,0.5,Resistant,Laboratory Method,562.23345,,MIC,,32debe7a-9b66-4890-84ed-73f31c9a2a8c,0.5,resistant,1.0
+ciprofloxacin,,Susceptible,Laboratory Method,562.23357,,Agar dilution,,346d1fca-5eaf-49f2-9262-0168536ee22a,,susceptible,0.0
+ciprofloxacin,0.5,Resistant,Laboratory Method,562.23357,,MIC,,f2e21890-f595-4b18-9b49-220d02a53b02,0.5,resistant,1.0
+ciprofloxacin,0.5,Resistant,Laboratory Method,562.23389,,MIC,,f4697de6-13d8-475b-b601-a4b1b0df35d4,0.5,resistant,1.0
+ciprofloxacin,,Susceptible,Laboratory Method,562.23389,,Agar dilution,,fff7d90f-6d9f-4a6c-a46b-5da9957fb69f,,susceptible,0.0
+ciprofloxacin,,Susceptible,Laboratory Method,562.23541,,Agar dilution,,7ed09524-850d-465b-8a94-df2759490c78,,susceptible,0.0
+ciprofloxacin,0.5,Resistant,Laboratory Method,562.23541,,MIC,,d055f0fb-552a-4b01-9fff-014dc5b734db,0.5,resistant,1.0
+ciprofloxacin,,Susceptible,Laboratory Method,562.23629,,Agar dilution,,329d8efa-cc08-40d6-a30d-d3e1cec92f8f,,susceptible,0.0
+ciprofloxacin,0.5,Resistant,Laboratory Method,562.23629,,MIC,,67ce4371-7686-4db9-b0b6-5abe16ecff4c,0.5,resistant,1.0
+ciprofloxacin,0.5,Resistant,Laboratory Method,562.23633,,MIC,,3c7cbec5-99c6-426c-a71b-e615303adaa8,0.5,resistant,1.0
+ciprofloxacin,,Susceptible,Laboratory Method,562.23633,,Agar dilution,,d4e75439-7700-4d4d-ab80-11e69182551b,,susceptible,0.0
+ciprofloxacin,,Susceptible,Laboratory Method,562.23660,,Agar dilution,,4b9f9c19-3aad-4dd6-a679-7bda31ef7f86,,susceptible,0.0
+ciprofloxacin,0.5,Resistant,Laboratory Method,562.23660,,MIC,,b03c8c47-c303-438d-9122-86e10d6d9cba,0.5,resistant,1.0
+ciprofloxacin,,Susceptible,Laboratory Method,562.23781,,Agar dilution,,62d7409d-6647-43af-8e8d-00124f9a1c4a,,susceptible,0.0
+ciprofloxacin,0.5,Resistant,Laboratory Method,562.23781,,MIC,,90cb1329-dfbc-4e9b-bbc7-a4349c0793da,0.5,resistant,1.0
+ciprofloxacin,0.5,Resistant,Laboratory Method,562.23862,,MIC,,231f798d-9f58-4c19-ac47-25c934f953e2,0.5,resistant,1.0
+ciprofloxacin,,Susceptible,Laboratory Method,562.23862,,Agar dilution,,aa099fb3-2ea1-411b-8e7a-67c7434a345a,,susceptible,0.0
+ciprofloxacin,0.5,Resistant,Laboratory Method,562.23907,,MIC,,6b79e148-59e3-43a7-9dba-551e6ac4929f,0.5,resistant,1.0
+ciprofloxacin,,Susceptible,Laboratory Method,562.23907,,Agar dilution,,fed4f2f0-a405-4e35-a074-db62792e5fdb,,susceptible,0.0
+ceftazidime,64,Resistant,Laboratory Method,562.42635,CLSI,Broth dilution,,4cbceab7-4b56-4aee-9400-c6b804b87c40,64,resistant,1.0
+ceftazidime,,Susceptible,Laboratory Method,562.42635,EUCAST,Disk diffusion,2016.0,8b339e73-c52c-472d-bc60-38d6546453b6,,susceptible,0.0
+ciprofloxacin,4,Resistant,Laboratory Method,562.42635,CLSI,Broth dilution,,bf42bfcd-03e8-49c5-95d0-9bbe67f8d541,4,resistant,1.0
+ciprofloxacin,,Susceptible,Laboratory Method,562.42635,EUCAST,Disk diffusion,2016.0,d47ff33e-16f0-4d79-b4de-dafe41b509f5,,susceptible,0.0
+ampicillin,6,Resistant,Laboratory Method,562.42755,CLSI,Disk diffusion,,98d28131-d207-4987-a251-ed51efdfc198,6,resistant,1.0
+ampicillin,32,Susceptible,Laboratory Method,562.42755,CLSI,Broth dilution,,aaf23e74-bc6b-43fb-9a40-156787708447,32,susceptible,0.0
+ampicillin,8,Susceptible,Laboratory Method,562.58774,eucast,Broth dilution,2015.0,3c248441-5d80-41cd-99ca-06335af39287,8,susceptible,0.0
+ampicillin,,Resistant,Laboratory Method,562.58774,clsi,Disk diffusion,2013.0,ae77ee86-2fd8-4869-a0a9-5f2aeb2b6eeb,,resistant,1.0
+ciprofloxacin,1,Resistant,Laboratory Method,562.58775,eucast,Broth dilution,2015.0,11f43469-890a-4933-a44c-f804f226a0ba,>1,resistant,1.0
+ciprofloxacin,,Susceptible,Laboratory Method,562.58775,clsi,Disk diffusion,2013.0,1a208bcf-a029-434a-bcff-3cdb0c37316c,,susceptible,0.0
+ampicillin,,Resistant,Laboratory Method,562.58778,clsi,Disk diffusion,2013.0,49c85f45-5076-4036-b692-5194ec12e5ba,,resistant,1.0
+ampicillin,8,Susceptible,Laboratory Method,562.58778,eucast,Broth dilution,2015.0,d4a489a5-875c-4ef1-886c-8ac39a80984f,8,susceptible,0.0
+ampicillin,8,Susceptible,Laboratory Method,562.58779,eucast,Broth dilution,2015.0,46a70b05-3884-4c09-9cb1-f123d3be33ec,8,susceptible,0.0
+ampicillin,,Resistant,Laboratory Method,562.58779,clsi,Disk diffusion,2013.0,4ccfbcc1-c916-445c-b0fc-a390f2931c8c,,resistant,1.0
+ampicillin,8,Susceptible,Laboratory Method,562.58780,eucast,Broth dilution,2015.0,4f476297-1544-4dbe-bd9a-dbe26268a9f1,8,susceptible,0.0
+ampicillin,,Resistant,Laboratory Method,562.58780,clsi,Disk diffusion,2013.0,cd745b0b-a943-48ab-b009-05bc47ee5e74,,resistant,1.0
+ampicillin,,Resistant,Laboratory Method,562.58785,clsi,Disk diffusion,2013.0,a98ec08a-edf1-46f1-a894-1fae63b16a1d,,resistant,1.0
+ampicillin,8,Susceptible,Laboratory Method,562.58785,eucast,Broth dilution,2015.0,dbbe0e1a-3f6d-4b33-bfd3-703effcbef34,8,susceptible,0.0
+ciprofloxacin,1,Resistant,Laboratory Method,562.58790,eucast,Broth dilution,2015.0,c2b1a228-1cab-42a9-8748-14fb6ad4d86e,>1,resistant,1.0
+ciprofloxacin,,Susceptible,Laboratory Method,562.58790,clsi,Disk diffusion,2013.0,d7d36c03-8d90-421a-8ed3-87c804b42848,,susceptible,0.0
+ampicillin,,Resistant,Laboratory Method,562.58792,clsi,Disk diffusion,2013.0,4c886cbb-b172-4c9e-bbef-ef2b600cd501,,resistant,1.0
+ampicillin,4,Susceptible,Laboratory Method,562.58792,eucast,Broth dilution,2015.0,cb12105c-7c71-4f2a-9a7a-076b80ce998b,4,susceptible,0.0

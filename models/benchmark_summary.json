@@ -1,0 +1,50 @@
+{
+  "ProkBERT + Attention (Calibrated)": {
+    "Subset_Accuracy": 0.28,
+    "Hamming_Loss": 0.352,
+    "Macro_F1": 0.64707169260945,
+    "Micro_F1": 0.6716417910447762,
+    "Macro_ROC_AUC": 0.6777104431516195,
+    "Macro_PR_AUC": 0.5844938789512725
+  },
+  "ProkBERT + Attention (Default 0.5)": {
+    "Subset_Accuracy": 0.24,
+    "Hamming_Loss": 0.384,
+    "Macro_F1": 0.6294782715594074,
+    "Micro_F1": 0.6417910447761194,
+    "Macro_ROC_AUC": 0.6777104431516195,
+    "Macro_PR_AUC": 0.5844938789512725
+  },
+  "ProkBERT (Mean Pooling Baseline)": {
+    "Subset_Accuracy": 0.0,
+    "Hamming_Loss": 0.608,
+    "Macro_F1": 0.39370031796502386,
+    "Micro_F1": 0.4492753623188406,
+    "Macro_ROC_AUC": 0.5790203260791495,
+    "Macro_PR_AUC": 0.5706977130200948
+  },
+  "XGBoost Classifier": {
+    "Subset_Accuracy": 0.08,
+    "Hamming_Loss": 0.32,
+    "Macro_F1": 0.42872552921333407,
+    "Micro_F1": 0.574468085106383,
+    "Macro_ROC_AUC": 0.5929666738490267,
+    "Macro_PR_AUC": 0.5731053898247498
+  },
+  "Random Forest Classifier": {
+    "Subset_Accuracy": 0.12,
+    "Hamming_Loss": 0.32,
+    "Macro_F1": 0.33410852713178296,
+    "Micro_F1": 0.5555555555555556,
+    "Macro_ROC_AUC": 0.6241345256051138,
+    "Macro_PR_AUC": 0.5849298075110032
+  },
+  "Logistic Regression": {
+    "Subset_Accuracy": 0.16,
+    "Hamming_Loss": 0.392,
+    "Macro_F1": 0.5303104575163399,
+    "Micro_F1": 0.5585585585585585,
+    "Macro_ROC_AUC": 0.6223012281835812,
+    "Macro_PR_AUC": 0.5765506683902413
+  }
+}
