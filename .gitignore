@@ -22,6 +22,23 @@ Thumbs.db
 .coverage
 htmlcov/
 
+# Exclude local zip bundles
+*.zip
+
+# Exclude internal reports, presentations, notes & batch launchers from Git (kept locally and in submission zip)
+*.pptx
+*.docx
+CAPSTONE_PROJECT_REPORT.md
+REVIEW_PAPER_IEEE.md
+EVALUATION_GUIDE.md
+FINAL_DEFENSE_AND_STUDY_GUIDE.md
+PRESENTATION_SPEAKER_NOTES.md
+push_to_github.bat
+run_dashboard.bat
+show_results.bat
+show_results.py
+requirements.txt
+
 # Exclude the 1.25 GB raw whole-genome FASTA corpus to respect GitHub 100MB limit
 # (Users can download the full corpus using python scripts/stage2_download_real_genomes.py)
 # Track only the 15 curated benchmark clinical FASTA genomes for immediate testing & Streamlit demo
@@ -41,7 +58,3 @@ data/fastas/*.fna
 !data/fastas/562.100117.fna
 !data/fastas/562.100121.fna
 !data/fastas/562.100152.fna
-
-# Exclude local zip bundles
-*.zip
-
