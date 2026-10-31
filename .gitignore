@@ -44,3 +44,4 @@ data/fastas/*.fna
 
 # Exclude local zip bundles
 *.zip
+
